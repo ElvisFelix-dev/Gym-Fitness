@@ -53,7 +53,7 @@
    ```
 2. Abra a pasta
    ```sh
-   cd model-page-dentist
+   cd Gym-Fitness
 
 3. Instalando NPM packages
    ```sh
