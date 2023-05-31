@@ -7,8 +7,11 @@ import Programs from "./components/Programs/Programs";
 import Reasons from "./components/Reasons/Reasons";
 import Testimonial from "./components/Testimonial/Testimonial";
 
+import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
+
 export function App() {
-  
+
   return (
     <div className="App">
       <Hero />
@@ -18,6 +21,18 @@ export function App() {
       <Testimonial />
       <Join />
       <Footer />
+      <ToastContainer
+        position="bottom-center"
+        autoClose={4000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="dark"
+      />
     </div>
   )
 }
