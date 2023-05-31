@@ -12,7 +12,7 @@
 
   <p align="center">
     <br />
-    <a href="https://dramaryjane.netlify.app/" target="_blank" rel="noreferrer">Demo do projeto</a>
+    <a href="https://gymfitnessplus.netlify.app/" target="_blank" rel="noreferrer">Demo do projeto</a>
   </p>
 </div>
 
