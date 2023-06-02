@@ -32,7 +32,7 @@
 <br />Sobre o aplicativo:<br />
 <br />
 
-- Modelo de uma landing-page para dentista
+- Modelo de uma landing-page para Academia
 
 <p align="right">(<a href="#topo">Para o topo</a>)</p>
 
